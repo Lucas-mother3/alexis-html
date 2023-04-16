@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://www.rssboard.org/rss-0.91.dtd">
+<rss version="0.91">
+    <channel>
+        <copyright>(c) Alexis Gaming Reviews 2022-2023.</copyright>
+        <pubDate>Sun, 20 Mar 2022 04:53:00 +0800</pubDate>
+        <lastBuildDate>Fri, 04 Nov 2022 20:57:32 +0800</lastBuildDate>
+        <description>Retro gaming. Tech. Music. Fun. Here's what I call my wall of thoughts. Have Fun!</description>
+        <link>http://alexisgaming95.neocities.org/</link>
+        <title>Alexis Gaming Reviews</title>
+        <image>
+            <link>http://alexisgaming95.neocities.org/</link>
+            <title>Alexis Gaming Reviews</title>
+            <url>http://alexisgaming95.neocities.org/images/logo.gif</url>
+            <height>32</height>
+            <width>32</width>
+            <description>AGR Logo</description>
+        </image>
+        <managingEditor>lucas0021a@outlook.com (Alexis Jhon Gaspar)</managingEditor>
+        <webMaster>lucas0021a@outlook.com (Alexis Jhon Gaspar)</webMaster>
+        <language>en-us</language>
+
+        <item>
+            <title>Introducing: AGR Classic - The Overhaul! (AGRCv2)</title>
+            <link>https://alexisgaming95.neocities.org/overhaul.htm</link>
+            <description>I overhauled my website! Hopefully for the better!</description>
+        </item>
+        <item>
+            <title>First week of Face to Face, and my thoughts</title>
+            <link>https://alexisgaming95.neocities.org/f2f.htm</link>
+            <description>After 2 years, face to face classes return. But what does Alexis think?</description>
+        </item>
+        <item>
+            <title>Modern Internet is shit</title>
+            <link>https://alexisgaming95.neocities.org/internet.htm</link>
+            <description>My thoughts about why the internet evolves backwards. Web3, Hidden surveillance, Cryptocurrencies are one of these that make Internet shit. But you can change it after reading the article.</description>
+        </item>
+        <item>
+            <title>Why I think RSS is based</title>
+            <link>https://alexisgaming95.neocities.org/rss.htm</link>
+            <description>My thoughts about RSS and why it's still verstile for delivering content even to this day.</description>
+        </item>
+        <item>
+            <title>My Rant about soydevs (EXCLUSIVE)</title>
+            <link>https://alexisgaming95.neocities.org/rant.htm</link>
+            <description>My rant about soydevs ruin the modern internet landscape and technology in general. I also included a tip on how to be a based Linux user.</description>
+        </item>
+    </channel>
+</rss>
